@@ -79,3 +79,7 @@ c:\users\wecancodeit\documents\visual studio 2015\Projects\CDentonReviews\CDento
 c:\users\wecancodeit\documents\visual studio 2015\Projects\CDentonReviews\CDentonReviews\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 c:\users\wecancodeit\documents\visual studio 2015\Projects\CDentonReviews\CDentonReviews\obj\Debug\CDentonReviews.dll
 c:\users\wecancodeit\documents\visual studio 2015\Projects\CDentonReviews\CDentonReviews\obj\Debug\CDentonReviews.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\CDentonReviews\CDentonReviews\obj\Debug\CDentonReviews.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\CDentonReviews\CDentonReviews\obj\Debug\CDentonReviews.Migrations.InitialCreate.resources
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\CDentonReviews\CDentonReviews\obj\Debug\CDentonReviews.csproj.GenerateResource.Cache
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\CDentonReviews\CDentonReviews\obj\Debug\CDentonReviews.Migrations.Initial.resources
