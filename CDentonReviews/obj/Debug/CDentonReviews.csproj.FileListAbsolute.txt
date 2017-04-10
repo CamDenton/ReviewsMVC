@@ -1,4 +1,3 @@
-c:\users\wecancodeit\documents\visual studio 2015\Projects\CDentonReviews\CDentonReviews\obj\Debug\CDentonReviews.csprojResolveAssemblyReference.cache
 c:\users\wecancodeit\documents\visual studio 2015\Projects\CDentonReviews\CDentonReviews\bin\ApplicationInsights.config
 c:\users\wecancodeit\documents\visual studio 2015\Projects\CDentonReviews\CDentonReviews\bin\roslyn\csc.exe
 c:\users\wecancodeit\documents\visual studio 2015\Projects\CDentonReviews\CDentonReviews\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
